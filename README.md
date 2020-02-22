@@ -15,10 +15,3 @@
 * Sesión 7: Web scraping
 * Sesión 8: Computación numérica o científica
 
-Al finalizar este módulo, el alumno será capaz de aplicar los requerimientos a su proyecto personal y 
-cumplir con las actividades que se enlistan a continuación.
-Estos requerimientos y actividades se cumplirán dependiendo del alcance de su proyecto; sin embargo, al final del módulo será capaz 
-de aplicar cualquiera de estos requerimientos y actividades para cualquier proyecto.
-Durante el Checkpoint, tendrás la responsabilidad de dar retroalimentación y orientación sobre cada entregables que el alumno haga.
-Para esta sesión, mapea con la lista lo que estará incluido en su proyecto y ayúdalo durante el desarrollo de este. Cualquier duda resuélvela de inmediato.
-
