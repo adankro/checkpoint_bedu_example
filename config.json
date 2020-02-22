@@ -1,0 +1,6 @@
+{
+    "arichivo_csv": "archivo.csv",
+    "arichivo_json": "~/repos/muarchivo.json",
+    "nombre_bd": "~/directorio/hoteles.db",
+    "API_1": "https://pokeapi.co/api/v2/"
+}
